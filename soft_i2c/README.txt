@@ -1,3 +1,0 @@
-SOFT_I2C_GPIO_PORT      GPIOB
-I2C_GPIO_SLC            PB10
-I2C_GPIO_SDA            PB11
